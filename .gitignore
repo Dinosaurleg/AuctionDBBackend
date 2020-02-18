@@ -1,0 +1,9 @@
+# Config file
+config.json
+
+# Dev Tools
+venv
+
+# Python Stuff
+.DS_Store
+__pycache__/
