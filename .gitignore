@@ -7,3 +7,6 @@ venv
 # Python Stuff
 .DS_Store
 __pycache__/
+
+# Misc
+.idea
